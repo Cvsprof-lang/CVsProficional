@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CV Profissional - Emílio em Quelimane</title>
+    <title>CV Profissional - Emílio em Pemba</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
         <h1>CV Profissional por Emílio</h1>
-        <p>Serviços de criação de CVs prontos e atualizados em Quelimane, Zambezia, Moçambique. Envie seus dados e receba um CV profissional!</p>
+        <p>Serviços de criação de CVs prontos e atualizado, Pemba, Cabo Delgado, Moçambique. Envie seus dados e,receba um CV profissional!</p>
     </header>
 
     <section id="servicos">
@@ -50,7 +50,7 @@
 
     <section id="sobre">
         <h2>Sobre Mim</h2>
-        <p>Olá, sou Emílio de Quelimane. Especializo-me em criar CVs que destacam suas habilidades para empregos em Moçambique e além. Garantia de satisfação ou reembolso!</p>
+        <p>Olá, sou Emílio de Pemba. Especializo-me em criar CVs que destacam suas habilidades para empregos em Moçambique e além. Garantia de satisfação ou reembolso!</p>
     </section>
 
     <footer>
